@@ -13,3 +13,5 @@ Amazon Rekognition による年齢分析と生活習慣の診断からユーザ�
 その後、楽天APIによりおすすめの化粧品の提案を行います。<br>
 また、YouTube Data APIを利用しておすすめの美容動画を表示します。<br>
 生活習慣の診断は例えば「睡眠をしっかりとっていますか（1日7時間半以上）」->Yes or No、洗顔は泡立て器で泡立ててから行っていますか？」->Yes or No.というような質問をいくつか用意します。
+## 画面遷移図
+https://www.figma.com/file/6KtpOCdc1vH0WQ8XBXoART/For_Men-s?node-id=0%3A1
