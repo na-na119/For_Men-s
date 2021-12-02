@@ -16,4 +16,4 @@ Amazon Rekognition による年齢分析と生活習慣の診断からユーザ�
 ## 画面遷移図
 https://www.figma.com/file/6KtpOCdc1vH0WQ8XBXoART/For_Men-s?node-id=0%3A1
 ## ER図
-https://i.gyazo.com/205f65ecf0aaa814c289cdd336e83f5b.png
+https://i.gyazo.com/8a573f1ce78686cbfef12bff4e789a48.png
